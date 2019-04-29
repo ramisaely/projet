@@ -1,7 +1,7 @@
 <?php  
 	try
 	{
-		$bdd= new PDO('mysql:host=localhost;dbname=formulaire', 'root', '');
+		$bdd= new PDO('mysql:host=localhost;dbname=formulaire', 'rado', 'rado06');
 	}
 	catch(Exception $e)
 	{
