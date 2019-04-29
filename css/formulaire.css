@@ -1,0 +1,80 @@
+body
+{
+	background-color: #BDBDBD;
+}
+#titre
+{
+	text-align: center;
+	font-style: italic;
+	font-family: "Centaur";
+}
+#form
+{
+	text-align: center;
+}
+#form p
+{
+	text-decoration: underline;
+}
+#form input[type=text]
+{
+	font-size: 20px;
+	border-radius: 10px;
+	background-color: #FA5858;
+	border: none;
+	height: 35px;
+}
+#form input:hover
+{
+	transition: 1s;
+	background-color: #A9BCF5;
+}
+
+#table
+{
+	background-color: #fff;
+	padding: 50px;
+	border-radius: 20px;
+	box-shadow: 5px 10px 10px;
+}
+#form table tr
+{
+	height: 50px;
+}
+#submit
+{
+	font-size: 20px;
+	height: 50px;
+	width: 150px;
+	background-color: #086A87;
+	border: none;
+	border-radius: 5px;
+	border-collapse: 10px;
+	color: #FFF;
+}
+
+#selection 
+{
+	background-color: ;
+	width: 120px;
+	height: 35px;
+	font-size: 18px;
+}
+.tableau td
+{
+	padding: 10px;
+}
+#tete
+{
+	background-color: #81BEF7;
+	border: none;
+	height: 10px;
+}
+.tableau table
+{
+	margin: 0 auto;
+}
+.tableau h2
+{
+	text-align: center;
+}
